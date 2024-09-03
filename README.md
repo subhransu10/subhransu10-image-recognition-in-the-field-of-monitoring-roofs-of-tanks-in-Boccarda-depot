@@ -25,3 +25,5 @@ The Master Thesis is about monitoring and detecting the anomalies with the UAV i
 - Risk Assessments and redundancy
 - Cost and Feasilbility Analysis
 - Documentation and Specifications
+  You can find the technical documentation here ![alt text](https://github.com/subhransu10/subhransu10-image-recognition-in-the-field-of-monitoring-roofs-of-tanks-in-Boccarda-depot/blob/main/Techincal%20Documentation_MESSAPPI%20(1).pdf)
+  You can see the simulation video here ![alt text](	https://vimeo.com/994611470?share=copy)
